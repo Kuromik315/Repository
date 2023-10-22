@@ -1,0 +1,42 @@
+﻿<Window x:Class="Praktika_9.Zad2"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Praktika_9"
+        mc:Ignorable="d"
+        Title="Zad2" Height="450" Width="450" ResizeMode="NoResize" >
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="2*"/>
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition/>
+            <ColumnDefinition/>
+            <ColumnDefinition/>
+        </Grid.ColumnDefinitions>
+        <StackPanel Grid.Row="0" Grid.ColumnSpan="3" Orientation="Horizontal" VerticalAlignment="Bottom" HorizontalAlignment="Center">
+            <Label Content="0" Name="label1" FontSize="48" Margin="0,0,10,0"/>
+            <Label Content=":" FontSize="48" Margin="0,0,10,0"/>
+            <Label Content="0" Name="label3" FontSize="48" Margin="0,0,10,0"/>
+            <Label Content=":" FontSize="48" Margin="0,0,10,0"/>
+            <Label Content="0" FontSize="48" Name="label5" Margin="0,0,10,0"/>
+        </StackPanel>
+        <StackPanel Orientation="Vertical" Grid.Row="1" HorizontalAlignment="Center">
+            <Label Content="Часы" FontSize="22" Margin="0,0,0,10"/>
+            <TextBox Text="0" Name="textBox1" FontSize="22" Width="110" Margin="0,0,0,30"/>
+            <Button Content="Старт" Name="StartBtn" FontSize="22" Click="StartBtn_Click"/>
+        </StackPanel>
+        <StackPanel Orientation="Vertical" Grid.Row="1" Grid.Column="1" HorizontalAlignment="Center">
+            <Label Content="Минуты" FontSize="22" Margin="0,0,0,10"/>
+            <TextBox Text="0" Name="textBox2" FontSize="22" Width="110" Margin="0,0,0,30"/>
+            <Button Content="Стоп" Click="StopBtn_Click" Name="StopBtn" FontSize="22"/>
+        </StackPanel>
+        <StackPanel Orientation="Vertical" Grid.Row="1" Grid.Column="2" HorizontalAlignment="Center">
+            <Label Content="Секунды" FontSize="22" Margin="0,0,0,10"/>
+            <TextBox Text="0" Name="textBox3" FontSize="22" Width="110" Margin="0,0,0,30"/>
+            <Button Content="Сброс" Click="ResetBtn_Click" Name="ResetBtn" FontSize="22"/>
+        </StackPanel>
+    </Grid>
+</Window>

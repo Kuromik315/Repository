@@ -1,0 +1,46 @@
+﻿<Window x:Class="Praktika_9.Zad4"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Praktika_9"
+        mc:Ignorable="d"
+        Title="Будильник" Height="350" Width="450" WindowStartupLocation="CenterScreen" ResizeMode="NoResize">
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition/>
+            <ColumnDefinition/>
+        </Grid.ColumnDefinitions>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="1.5*"/>
+            <RowDefinition/>
+        </Grid.RowDefinitions>
+        <GroupBox Header="Текущее время" HorizontalAlignment="Center" VerticalAlignment="Center" Width="200" Height="150" FontSize="18">
+            <StackPanel Orientation="Horizontal" VerticalAlignment="Center" HorizontalAlignment="Center">
+                <Label Content="00 : 00" FontSize="36" x:Name="lbnowh"/>
+
+            </StackPanel>
+        </GroupBox>
+        <GroupBox Header="Будильник" Grid.Row="0" Grid.Column="1"  HorizontalAlignment="Center" VerticalAlignment="Center" Width="200" Height="150" FontSize="18">
+            <StackPanel Orientation="Horizontal" VerticalAlignment="Center" HorizontalAlignment="Center">
+                <Label Content="00" FontSize="36" x:Name="lbbudh"/>
+                <Label Content=":" FontSize="36"/>
+                <Label Content="00" FontSize="36" x:Name="lbbudm"/>
+                <StackPanel VerticalAlignment="Center">
+                    <Button Content="↑" Width="25" Height="25" Margin="3" x:Name="plh" Click="btn_Click"/>
+                    <Button Content="↓" Width="25" Height="25" x:Name="minh" Click="btn_Click"/>
+                </StackPanel>
+                <StackPanel VerticalAlignment="Center">
+                    <Button Content="↑" Width="25" Height="25" Margin="3" x:Name="plm" Click="btn_Click"/>
+                    <Button Content="↓" Width="25" Height="25" x:Name="minm" Click="btn_Click"/>
+                </StackPanel>
+            </StackPanel>
+        </GroupBox>
+        <StackPanel Grid.Row="1" Grid.ColumnSpan="2" HorizontalAlignment="Center" >
+            <TextBlock Text="Текст" FontSize="18" Margin="5"/>
+            <TextBox Width="350" Height="30" FontSize="18" x:Name="vvod"/>
+        </StackPanel>
+        <Button Content="Ок" Width="80" Height="25" Grid.Row="1" VerticalAlignment="Bottom" x:Name="Okbtn" Click="Okbtn_Click"
+                HorizontalAlignment="Left" Margin="15"/>
+    </Grid>
+</Window>

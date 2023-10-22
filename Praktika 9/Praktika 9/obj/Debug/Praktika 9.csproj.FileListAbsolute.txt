@@ -1,0 +1,46 @@
+H:\ОА И П\РПМ\Praktika 9\Praktika 9\bin\Debug\Praktika 9.exe.config
+H:\ОА И П\РПМ\Praktika 9\Praktika 9\bin\Debug\Praktika 9.exe
+H:\ОА И П\РПМ\Praktika 9\Praktika 9\bin\Debug\Praktika 9.pdb
+H:\ОА И П\РПМ\Praktika 9\Praktika 9\obj\Debug\Praktika 9.csproj.AssemblyReference.cache
+H:\ОА И П\РПМ\Praktika 9\Praktika 9\obj\Debug\Praktika 9.csproj.SuggestedBindingRedirects.cache
+H:\ОА И П\РПМ\Praktika 9\Praktika 9\obj\Debug\MainWindow.g.cs
+H:\ОА И П\РПМ\Praktika 9\Praktika 9\obj\Debug\App.g.cs
+H:\ОА И П\РПМ\Praktika 9\Praktika 9\obj\Debug\Praktika 9_MarkupCompile.cache
+H:\ОА И П\РПМ\Praktika 9\Praktika 9\obj\Debug\Praktika 9_MarkupCompile.lref
+H:\ОА И П\РПМ\Praktika 9\Praktika 9\obj\Debug\MainWindow.baml
+H:\ОА И П\РПМ\Praktika 9\Praktika 9\obj\Debug\Praktika 9.g.resources
+H:\ОА И П\РПМ\Praktika 9\Praktika 9\obj\Debug\Praktika_9.Properties.Resources.resources
+H:\ОА И П\РПМ\Praktika 9\Praktika 9\obj\Debug\Praktika 9.csproj.GenerateResource.cache
+H:\ОА И П\РПМ\Praktika 9\Praktika 9\obj\Debug\Praktika 9.csproj.CoreCompileInputs.cache
+H:\ОА И П\РПМ\Praktika 9\Praktika 9\obj\Debug\Praktika 9.exe
+H:\ОА И П\РПМ\Praktika 9\Praktika 9\obj\Debug\Praktika 9.pdb
+H:\ОА И П\РПМ\Praktika 9\Praktika 9\obj\Debug\Zad1.g.cs
+H:\ОА И П\РПМ\Praktika 9\Praktika 9\obj\Debug\Zad1.baml
+H:\ОА И П\РПМ\Praktika 9\Praktika 9\obj\Debug\Zad2.g.cs
+H:\ОА И П\РПМ\Praktika 9\Praktika 9\obj\Debug\Zad2.baml
+H:\ОА И П\РПМ\Praktika 9\Praktika 9\obj\Debug\Zad3.g.cs
+H:\ОА И П\РПМ\Praktika 9\Praktika 9\obj\Debug\Zad3.baml
+C:\Users\rjpby\OneDrive\Рабочий стол\Praktika 9\Praktika 9\bin\Debug\Praktika 9.exe.config
+C:\Users\rjpby\OneDrive\Рабочий стол\Praktika 9\Praktika 9\bin\Debug\Praktika 9.exe
+C:\Users\rjpby\OneDrive\Рабочий стол\Praktika 9\Praktika 9\bin\Debug\Praktika 9.pdb
+C:\Users\rjpby\OneDrive\Рабочий стол\Praktika 9\Praktika 9\obj\Debug\Praktika 9.csproj.AssemblyReference.cache
+C:\Users\rjpby\OneDrive\Рабочий стол\Praktika 9\Praktika 9\obj\Debug\Praktika 9.csproj.SuggestedBindingRedirects.cache
+C:\Users\rjpby\OneDrive\Рабочий стол\Praktika 9\Praktika 9\obj\Debug\MainWindow.g.cs
+C:\Users\rjpby\OneDrive\Рабочий стол\Praktika 9\Praktika 9\obj\Debug\Zad1.g.cs
+C:\Users\rjpby\OneDrive\Рабочий стол\Praktika 9\Praktika 9\obj\Debug\Zad2.g.cs
+C:\Users\rjpby\OneDrive\Рабочий стол\Praktika 9\Praktika 9\obj\Debug\Zad3.g.cs
+C:\Users\rjpby\OneDrive\Рабочий стол\Praktika 9\Praktika 9\obj\Debug\Zad4.g.cs
+C:\Users\rjpby\OneDrive\Рабочий стол\Praktika 9\Praktika 9\obj\Debug\App.g.cs
+C:\Users\rjpby\OneDrive\Рабочий стол\Praktika 9\Praktika 9\obj\Debug\Praktika 9_MarkupCompile.cache
+C:\Users\rjpby\OneDrive\Рабочий стол\Praktika 9\Praktika 9\obj\Debug\Praktika 9_MarkupCompile.lref
+C:\Users\rjpby\OneDrive\Рабочий стол\Praktika 9\Praktika 9\obj\Debug\MainWindow.baml
+C:\Users\rjpby\OneDrive\Рабочий стол\Praktika 9\Praktika 9\obj\Debug\Zad1.baml
+C:\Users\rjpby\OneDrive\Рабочий стол\Praktika 9\Praktika 9\obj\Debug\Zad2.baml
+C:\Users\rjpby\OneDrive\Рабочий стол\Praktika 9\Praktika 9\obj\Debug\Zad3.baml
+C:\Users\rjpby\OneDrive\Рабочий стол\Praktika 9\Praktika 9\obj\Debug\Zad4.baml
+C:\Users\rjpby\OneDrive\Рабочий стол\Praktika 9\Praktika 9\obj\Debug\Praktika 9.g.resources
+C:\Users\rjpby\OneDrive\Рабочий стол\Praktika 9\Praktika 9\obj\Debug\Praktika_9.Properties.Resources.resources
+C:\Users\rjpby\OneDrive\Рабочий стол\Praktika 9\Praktika 9\obj\Debug\Praktika 9.csproj.GenerateResource.cache
+C:\Users\rjpby\OneDrive\Рабочий стол\Praktika 9\Praktika 9\obj\Debug\Praktika 9.csproj.CoreCompileInputs.cache
+C:\Users\rjpby\OneDrive\Рабочий стол\Praktika 9\Praktika 9\obj\Debug\Praktika 9.exe
+C:\Users\rjpby\OneDrive\Рабочий стол\Praktika 9\Praktika 9\obj\Debug\Praktika 9.pdb
